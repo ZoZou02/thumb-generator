@@ -6,7 +6,7 @@
 
   A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)]
+  ![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)
 
 </div>
 
