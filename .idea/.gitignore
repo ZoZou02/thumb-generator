@@ -6,3 +6,7 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+#本地测试
+/test
+/installer
+/favicon_package_v0.16
