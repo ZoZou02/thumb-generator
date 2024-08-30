@@ -2,11 +2,12 @@
 <div align="center">
 
   <!-- markdownlint-disable-next-line -->
-  # Chirpy Jekyll Theme
+  # thumbs-generater
 
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+  创建缩略图程序，主要用于自己的[gallery](https://github.com/ZoZou02/gallery/)项目。
 
-  ![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)
+
+  ![img](https://github.com/ZoZou02/thumbs-generater/blob/master/assets/favicon/android-chrome-192x192.png)
 
 </div>
 
