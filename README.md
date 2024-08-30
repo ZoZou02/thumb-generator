@@ -5,6 +5,6 @@
   # thumbs-generater
   创建缩略图程序，主要用于自己的[![gallery](https://github.com/ZoZou02/gallery/blob/master/assets/favicon/favicon-16x16.png)gallery](https://github.com/ZoZou02/gallery/)项目。
 
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
+  [![Devices Mockup](https://github.com/ZoZou02/thumb-generator/blob/main/favicon/android-chrome-192x192.pn)]
 
 </div>
