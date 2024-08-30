@@ -6,4 +6,4 @@
   
 </div>
 
-[gallery](https://github.com/ZoZou02/gallery/)
+[gallery]: (https://github.com/ZoZou02/gallery/)
